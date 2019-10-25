@@ -1,0 +1,44 @@
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\Osu Parser.exe.config
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\Osu Parser.exe
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\Osu Parser.pdb
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csprojAssemblyReference.cache
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu_Parser.Properties.Resources.resources
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csproj.GenerateResource.cache
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu Parser.exe
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu Parser.pdb
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csproj.CopyComplete
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\taglib-sharp.dll
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu_Parser.Form1.resources
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu_Parser.Properties.Resources.resources
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csproj.GenerateResource.cache
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu Parser.exe
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu Parser.pdb
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Osu Parser.exe.config
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Osu Parser.exe
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Osu Parser.pdb
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.Core.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\taglib-sharp.dll
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.pdb
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.xml
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.Core.xml
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Josep\Documents\Osu Parser\Osu Parser\obj\Debug\Osu Parser.csproj.CopyComplete
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Debug\Osu_Parser.OsuParser.resources

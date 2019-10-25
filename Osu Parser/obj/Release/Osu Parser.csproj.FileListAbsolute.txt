@@ -1,0 +1,16 @@
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\Osu Parser.exe.config
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\Osu Parser.exe
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\Osu Parser.pdb
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\Newtonsoft.Json.dll
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\taglib-sharp.dll
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\Newtonsoft.Json.xml
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu_Parser.Properties.Resources.resources
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu Parser.csproj.GenerateResource.cache
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu Parser.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu Parser.csproj.CopyComplete
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu Parser.exe
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu Parser.pdb
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu Parser.csprojAssemblyReference.cache
+C:\Users\Joseph Zurita\source\repos\Osu Parser\Osu Parser\obj\Release\Osu_Parser.OsuParser.resources
